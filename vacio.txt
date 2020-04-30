@@ -4,5 +4,3 @@ y esta la tercera
 esta es la primer linea
 y esta la segunda
 y esta la tercera
-mod3
-mod 4
